@@ -1,4 +1,5 @@
 ---
+img: https://i2.wp.com/blog.caelum.com.br/wp-content/uploads/2019/04/flutter-1-100x100.png
 layout: post
 title: Outro tipo de post
 date: 2020-05-14 08:36
